@@ -1,1 +1,1 @@
-C - variables
+Static libraries
